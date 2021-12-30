@@ -7,3 +7,5 @@ Atividade
 
 
 Atividade segundo uma aula sobre Sintaxe de Operadores.
+
+

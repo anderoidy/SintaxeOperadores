@@ -10,6 +10,12 @@ while (numUser != 1234) {
 } 
 
 var passUser = readlineSync.question('Entre com o password! ');
+if(passUser == 9999) {
+    console.log("Acesso permitido") 
+    console.log("\nO numero do usuario é: ", numUser);
+    console.log("O password é: ", passUser);
+} else {
+    console.log("Acesso nao permitido ");
+}
 
-console.log("\nO numero do usuario é: ", numUser);
-console.log("O password é: ", passUser);
+

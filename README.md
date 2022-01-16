@@ -62,5 +62,20 @@ Atividade 2 Sets
 
 	Dado o array [30, 30, 40, 5, 223, 2049, 3034, 5], retorne ooutro array apenas com valores únicos.
 	
-	
+Map, Filter e Reduce
 
+Atividades 
+
+Map,
+ 
+Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro this de um objeto criado por voçê, e depois sem ele.
+
+Filter,
+
+Filtre e retorne todos os numeros pares de um array
+
+Reduce
+
+1. Some todos os numeros de uma array
+2. Crie uma lista que receba uma lista de produtos com preços e uma variavel armazenando o saldo disponivel inicial de R$ 100 reais por exemplo.
+Calcule qual será o saldo finbal após subtrair o valor de todos os produtos comprados da lista de produtos.	
